@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name":"Ernest Joseph",
+        "emial": "er@jo.com"
+    },
+    {
+        "id": 2,
+        "name":"Irene Joseph",
+        "emial": "ir@jo.com"
+    },
+    {
+        "id": 3,
+        "name":"Joseph Joseph",
+        "emial": "jo@jo.com"    }
+]
